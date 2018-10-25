@@ -2,8 +2,10 @@
 
 body {
 	font-family: 'XoloniumRegular'; 
-	 font-weight: normal; 
-	  font-style: normal; 
+	font-weight: normal; 
+	font-style: normal; 
+	font-size: 150%;
+	margin: 0px 0px 0px 0px;
 
 h1 {
 	background-image: url('http://javascriptbook.com/code/c04/images/bullseye-logo.png');
